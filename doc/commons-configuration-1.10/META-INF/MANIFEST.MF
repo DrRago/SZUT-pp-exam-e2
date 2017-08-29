@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Implementation-Vendor: The Apache Software Foundation
+Implementation-Title: Apache Commons Configuration
+Implementation-Version: 1.10
+Implementation-Vendor-Id: commons-configuration
+Built-By: henning
+Build-Jdk: 1.7.0_25
+Specification-Vendor: The Apache Software Foundation
+Specification-Title: Apache Commons Configuration
+Created-By: Apache Maven
+Specification-Version: 1.10
+Archiver-Version: Plexus Archiver
+
